@@ -1,1 +1,1 @@
-cat /etc/passwd /etc/hosts /etc/passwd /etc/hosts
+find . -type d -not -name . | wc -l 11-directories
